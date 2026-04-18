@@ -1,3 +1,3 @@
 # DEMO
 
-Made this repo on 4/8/26 to learn git hub.
+Made this repo on 4/8/26 to learn and practicing git hub.
